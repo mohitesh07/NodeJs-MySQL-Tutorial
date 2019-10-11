@@ -1,4 +1,4 @@
-![node-mysql Logo](node_mysql.jpg {width=40px height=40px})
+![node-mysql Logo](node_mysql.jpg){:width="40px" height="40px"}
 
 # NodeJs-MySQL-Tutorial
 
