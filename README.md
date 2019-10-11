@@ -1,5 +1,4 @@
-![node-mysql Logo](node_mysql.jpg){:width="40px" height="40px"}
-
+![node-mysql Logo | 20%](node_mysql.jpg)
 # NodeJs-MySQL-Tutorial
 
 ![Version Details](https://img.shields.io/badge/version-1.0-brightgreen.svg)
